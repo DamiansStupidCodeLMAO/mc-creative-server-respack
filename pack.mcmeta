@@ -4,6 +4,14 @@
     "supported_formats": {
       "max_inclusive": 97,
       "min_inclusive": 97
-    }
+    },
+    "min_format": [
+      97,
+      1
+    ],
+    "max_format": [
+      97,
+      1
+    ]
   }
 }
