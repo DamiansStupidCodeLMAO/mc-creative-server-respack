@@ -1,5 +1,9 @@
 {
   "pack": {
-    "description": "Creative!"
+    "description": "Creative!",
+    "supported_formats": {
+      "max_inclusive": 97,
+      "min_inclusive": 97
+    }
   }
 }
