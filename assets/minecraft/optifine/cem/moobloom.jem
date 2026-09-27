@@ -7,7 +7,7 @@
 			"id": "head",
 			"invertAxis": "xy",
 			"translate": [0, -20, 8],
-			"texture": "optifine/random/entity/cow/cow_temperate2.png",
+			"texture": "optifine/random/entity/cow/moobloom.png",
 			"textureSize": [64, 64],
 			"boxes": [
 				{
@@ -64,7 +64,7 @@
 			"invertAxis": "xy",
 			"translate": [0, -19, -2],
 			"rotate": [-90, 0, 0],
-			"texture": "optifine/random/entity/cow/cow_temperate2.png",
+			"texture": "optifine/random/entity/cow/moobloom.png",
 			"textureSize": [64, 64],
 			"boxes": [
 				{
@@ -139,7 +139,7 @@
 			"id": "leg1",
 			"invertAxis": "xy",
 			"translate": [-4, -12, -7],
-			"texture": "optifine/random/entity/cow/cow_temperate2.png",
+			"texture": "optifine/random/entity/cow/moobloom.png",
 			"textureSize": [64, 64],
 			"boxes": [
 				{
@@ -158,7 +158,7 @@
 			"id": "leg2",
 			"invertAxis": "xy",
 			"translate": [4, -12, -7],
-			"texture": "optifine/random/entity/cow/cow_temperate2.png",
+			"texture": "optifine/random/entity/cow/moobloom.png",
 			"textureSize": [64, 64],
 			"boxes": [
 				{
@@ -177,7 +177,7 @@
 			"id": "leg3",
 			"invertAxis": "xy",
 			"translate": [-4, -12, 6],
-			"texture": "optifine/random/entity/cow/cow_temperate2.png",
+			"texture": "optifine/random/entity/cow/moobloom.png",
 			"textureSize": [64, 64],
 			"boxes": [
 				{
@@ -196,7 +196,7 @@
 			"id": "leg4",
 			"invertAxis": "xy",
 			"translate": [4, -12, 6],
-			"texture": "optifine/random/entity/cow/cow_temperate2.png",
+			"texture": "optifine/random/entity/cow/moobloom.png",
 			"textureSize": [64, 64],
 			"boxes": [
 				{
